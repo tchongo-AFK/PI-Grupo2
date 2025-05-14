@@ -1,1 +1,1 @@
-Repositorio criado dedicado ao PI(Projeto integrador) 
+Repositorio criado dedicado ao PI(Projeto intedisciplinar) 
