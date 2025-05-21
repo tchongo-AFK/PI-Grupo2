@@ -1,1 +1,11 @@
-Pasta onde serão colocados os esboços das respectivas telas: Cadastro, login e land-page. (Por enquanto)
+A presente pasta contém os protótipos de interface do usuário desenvolvidos para o software de vendas online da loja Little Bunny's, especializada na comercialização de produtos de crochê.
+Os protótipos incluídos contemplam as seguintes telas principais:
+
+°Tela Inicial: Interface de boas-vindas e navegação geral da plataforma, com destaques de produtos e categorias.
+
+°Tela de Cadastro/Login: Formulários destinados ao registro de novos usuários e autenticação de clientes já cadastrados.
+
+°Tela de Carrinho: Página dedicada à visualização e gerenciamento dos itens selecionados para compra, com opções de alteração de quantidade, remoção de produtos e prosseguimento para o pagamento.
+
+Estes protótipos têm como objetivo fornecer uma visão preliminar da experiência do usuário dentro do sistema, servindo como base para as etapas subsequentes de desenvolvimento.
+Telas realizadas via Figma.
