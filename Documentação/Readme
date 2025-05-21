@@ -1,1 +1,10 @@
-Aqui será colocado os Diagramas de caso de uso, juntamente com o Diagrama de contexto e arquivos word descrevendo as especificações do cliente sobre o site.
+Esta pasta reúne a documentação técnica referente ao desenvolvimento do software de vendas online da loja Little Bunny's, especializada em produtos de crochê.
+Estão incluídos os seguintes documentos e artefatos:
+
+°Diagrama de Caso de Uso: Representação gráfica dos principais atores do sistema e suas interações com as funcionalidades, com o objetivo de descrever o comportamento esperado do software sob a perspectiva do usuário.
+
+°Diagrama de Contexto: Visão macro do sistema, evidenciando as entidades externas com as quais ele se comunica, bem como os fluxos de dados entre essas entidades e o software.
+
+°Documento de Especificações do Software (Word): Documento descritivo contendo os requisitos funcionais e não funcionais do sistema, regras de negócio, escopo, e demais informações relevantes para orientar o desenvolvimento e garantir a conformidade com as necessidades da loja Little Bunny's.
+
+Essa documentação serve como base para o alinhamento entre os envolvidos no projeto e como referência durante todas as fases do ciclo de vida do software.
