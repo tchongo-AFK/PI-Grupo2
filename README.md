@@ -1,33 +1,66 @@
-# ***Repositorio criado dedicado à loja Little Bunny's***
+# 🐰 Bunny's Little Shop - Sistema Web de Vendas
 
-## *♠NOME DOS INTEGRANTES:*
+## 👥 Equipe
+- Paola Gabriele de Oliveira  
+- Fernanda Ranali  
+- Samuel Cabral Calixto  
+- Arthur Marques  
 
-Matheus Alexandre Clemente Rodrigues
+---
 
-Paola Gabriele de Oliveira
+## 📋 Sumário
 
-Fernanda Ranali
+- [🧵 Descrição do Projeto](#-descrição-do-projeto)
+- [🛠️ Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [📋 Requisitos](#-requisitos)
+  - [🧑‍💼 Atividades do Cliente](#-atividades-do-cliente)
+  - [🛠️ Atividades da-ADM](#-atividades-da-adm)
+- [💡 Observações Finais](#-observações-finais)
 
-Samuel Cabral Calixto
+---
 
-Arthur Marques
+## 🧵 Descrição do Projeto
 
-## *♣DESCRIÇÃO DO PROJETO:*
+O projeto tem como objetivo o desenvolvimento de um **sistema web para vendas online**, voltado para a loja artesanal **Bunny’s Little Shop**, um pequeno negócio gerido por uma única pessoa.
 
-O projeto tem como objetivo o desenvolvimento de um sistema web para vendas online, voltado para a loja artesanal Bunny's Little Shop, um pequeno negócio gerido por uma única pessoa. A loja trabalha com a confecção e venda de produtos de crochê, feitos à mão, e busca uma solução prática e intuitiva para organizar pedidos, divulgar produtos e se comunicar com os clientes. O sistema será desenvolvido para facilitar o gerenciamento dos produtos e dos pedidos, otimizandoo tempo da empreendedora e oferecendo ao cliente uma experiência simples e eficiente de compra online.
+A loja trabalha com a **confecção e venda de produtos de crochê**, feitos à mão, e busca uma solução **prática e intuitiva** para:
 
-## *♦REQUISITOS:*
+- Organizar pedidos  
+- Divulgar produtos  
+- Se comunicar com os clientes
 
-**Atividades do Cliente:**
-- Cadastro/Login
-- Visualização de produtos
-- Informações do produto
-- Encomenda de produtos
-- Carrinho de compras
-- Contato via WhatsApp com a administradora
+O sistema será desenvolvido para **facilitar o gerenciamento de produtos e pedidos**, **otimizando o tempo da empreendedora** e oferecendo ao cliente uma **experiência simples e eficiente** de compra online.
 
-**Atividades da ADM:**
-- Cadastro/Login
-- Edição de produtos no catálogo
-- Visualização de pedidos do cliente
-- Contato com clientes
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+</p>
+
+---
+
+## 📋 Requisitos
+
+### 🧑‍💼 Atividades do Cliente:
+- [ ] Cadastro/Login  
+- [ ] Visualização de produtos  
+- [ ] Informações do produto  
+- [ ] Encomenda de produtos  
+- [ ] Carrinho de compras  
+- [ ] Contato via WhatsApp com a administradora  
+
+### 🛠️ Atividades da ADM:
+- [ ] Cadastro/Login  
+- [ ] Edição de produtos no catálogo  
+- [ ] Visualização de pedidos do cliente  
+- [ ] Contato com clientes  
+
+---
+
+## 💡 Observações Finais
+
+Esse sistema visa atender tanto às necessidades da **empreendedora** quanto às dos **clientes**, promovendo uma **experiência personalizada, segura e organizada** em um ambiente digital simples e funcional.
