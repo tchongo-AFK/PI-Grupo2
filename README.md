@@ -29,6 +29,12 @@ A loja trabalha com a **confecção e venda de produtos de crochê**, feitos à 
 - Divulgar produtos  
 - Se comunicar com os clientes
 
+## 🔗 Acesse o Projeto
+
+Você pode acessar o site funcional do projeto através do link abaixo:
+
+👉 [https://loja-pi-git-main-thurs-projects-7698f2ef.vercel.app](https://loja-pi-git-main-thurs-projects-7698f2ef.vercel.app)
+
 O sistema será desenvolvido para **facilitar o gerenciamento de produtos e pedidos**, **otimizando o tempo da empreendedora** e oferecendo ao cliente uma **experiência simples e eficiente** de compra online.
 
 ---
