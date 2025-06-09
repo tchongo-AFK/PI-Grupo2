@@ -1,72 +1,68 @@
-# 🐰 Bunny's Little Shop - Sistema Web de Vendas
+🐰 Bunny's Little Shop - Sistema Web de Vendas
+👥 Equipe
+Paola Gabriele de Oliveira
 
-## 👥 Equipe
-- Paola Gabriele de Oliveira  
-- Fernanda Ranali  
-- Samuel Cabral Calixto  
-- Arthur Marques  
+Fernanda Ranali
 
----
+Samuel Cabral Calixto
 
-## 📋 Sumário
+Arthur Marques
 
-- [🧵 Descrição do Projeto](#-descrição-do-projeto)
-- [🛠️ Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [📋 Requisitos](#-requisitos)
-  - [🧑‍💼 Atividades do Cliente](#-atividades-do-cliente)
-  - [🛠️ Atividades da-ADM](#-atividades-da-adm)
-- [💡 Observações Finais](#-observações-finais)
+📋 Sumário
+🧵 Descrição do Projeto
 
----
+🛠️ Tecnologias Utilizadas
 
-## 🧵 Descrição do Projeto
+📋 Requisitos
 
-O projeto tem como objetivo o desenvolvimento de um **sistema web para vendas online**, voltado para a loja artesanal **Bunny’s Little Shop**, um pequeno negócio gerido por uma única pessoa.
+🧑‍💼 Atividades do Cliente
 
-A loja trabalha com a **confecção e venda de produtos de crochê**, feitos à mão, e busca uma solução **prática e intuitiva** para:
+🛠️ Atividades da-ADM
 
-- Organizar pedidos  
-- Divulgar produtos  
-- Se comunicar com os clientes
+💡 Observações Finais
 
-## 🔗 Acesse o Projeto
+🧵 Descrição do Projeto
+O projeto tem como objetivo o desenvolvimento de um sistema web para vendas online, voltado para a loja artesanal Bunny’s Little Shop, um pequeno negócio gerido por uma única pessoa.
 
+A loja trabalha com a confecção e venda de produtos de crochê, feitos à mão, e buscava uma solução prática, moderna e intuitiva para:
+
+Organizar e finalizar pedidos
+
+Apresentar os produtos ao público
+
+Realizar atendimento com suporte integrado via chat
+
+Possibilitar o cadastro e login de clientes
+
+🔗 Acesse o Projeto
 Você pode acessar o site funcional do projeto através do link abaixo:
 
-👉 [https://loja-pi-git-main-thurs-projects-7698f2ef.vercel.app](https://loja-pi-git-main-thurs-projects-7698f2ef.vercel.app)
+👉 https://loja-pi-git-main-thurs-projects-7698f2ef.vercel.app
 
-O sistema será desenvolvido para **facilitar o gerenciamento de produtos e pedidos**, **otimizando o tempo da empreendedora** e oferecendo ao cliente uma **experiência simples e eficiente** de compra online.
+🛠️ Tecnologias Utilizadas
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> </p>
+📋 Requisitos
+🧑‍💼 Atividades do Cliente:
+ Cadastro/Login de usuários
 
----
+ Visualização e seleção de produtos
 
-## 🛠️ Tecnologias Utilizadas
+ Finalização de compra com carrinho funcional
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-</p>
+ Página “Sobre Nós” com informações da loja
 
----
+ Suporte ao cliente via chat
 
-## 📋 Requisitos
+🛠️ Atividades da ADM:
+ Cadastro/Login de administradores
 
-### 🧑‍💼 Atividades do Cliente:
-- [ ] Cadastro/Login  
-- [ ] Visualização de produtos  
-- [ ] Informações do produto  
-- [ ] Encomenda de produtos  
-- [ ] Carrinho de compras  
-- [ ] Contato via WhatsApp com a administradora  
+ Edição de produtos no catálogo
 
-### 🛠️ Atividades da ADM:
-- [ ] Cadastro/Login  
-- [ ] Edição de produtos no catálogo  
-- [ ] Visualização de pedidos do cliente  
-- [ ] Contato com clientes  
+ Visualização de pedidos do cliente
 
----
+ Comunicação com os clientes via suporte
 
-## 💡 Observações Finais
+💡 Observações Finais
+Esse sistema foi pensado para oferecer uma experiência personalizada e eficiente tanto para o cliente quanto para a administradora. O objetivo é facilitar o processo de venda e compra, integrando funcionalidades práticas com um visual amigável. O sistema é leve, intuitivo e pode ser adaptado futuramente para outras lojas artesanais.
 
-Esse sistema visa atender tanto às necessidades da **empreendedora** quanto às dos **clientes**, promovendo uma **experiência personalizada, segura e organizada** em um ambiente digital simples e funcional.
+
