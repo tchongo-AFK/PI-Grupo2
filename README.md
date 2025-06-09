@@ -1,68 +1,84 @@
-🐰 Bunny's Little Shop - Sistema Web de Vendas
-👥 Equipe
-Paola Gabriele de Oliveira
+# 🐰 Bunny's Little Shop - Sistema Web de Vendas
 
-Fernanda Ranali
+## 👥 Equipe
+- Paola Gabriele de Oliveira  
+- Fernanda Ranali  
+- Samuel Cabral Calixto  
+- Arthur Marques  
 
-Samuel Cabral Calixto
+---
 
-Arthur Marques
+## 📋 Sumário
 
-📋 Sumário
-🧵 Descrição do Projeto
+- [🧵 Descrição do Projeto](#-descrição-do-projeto)
+- [🛠️ Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [📋 Requisitos](#-requisitos)
+  - [🧑‍💼 Atividades do Cliente](#-atividades-do-cliente)
+  - [🛠️ Atividades da ADM](#-atividades-da-adm)
+- [💡 Observações Finais](#-observações-finais)
 
-🛠️ Tecnologias Utilizadas
+---
 
-📋 Requisitos
+## 🧵 Descrição do Projeto
 
-🧑‍💼 Atividades do Cliente
+O projeto tem como objetivo o desenvolvimento de um **sistema web de vendas totalmente visual**, voltado para a loja artesanal **Bunny’s Little Shop** — um pequeno negócio que confecciona e vende produtos de crochê feitos à mão.
 
-🛠️ Atividades da-ADM
+O sistema foi construído 100% com **tecnologias de front-end** (HTML, CSS e JavaScript), simulando as principais funcionalidades de uma loja virtual moderna:
 
-💡 Observações Finais
+- Apresentação dos produtos em destaque  
+- Simulação de login e cadastro  
+- Carrinho de compras funcional (via JavaScript)  
+- Página "Sobre Nós"  
+- Seção de Suporte com simulação de chat  
+- Botão de contato com a administradora via WhatsApp  
 
-🧵 Descrição do Projeto
-O projeto tem como objetivo o desenvolvimento de um sistema web para vendas online, voltado para a loja artesanal Bunny’s Little Shop, um pequeno negócio gerido por uma única pessoa.
+Apesar de não possuir back-end (banco de dados ou servidor), o projeto se destaca por apresentar **interatividade real com JavaScript** e **navegação fluida** entre as páginas — entregando uma experiência imersiva e intuitiva ao usuário.
 
-A loja trabalha com a confecção e venda de produtos de crochê, feitos à mão, e buscava uma solução prática, moderna e intuitiva para:
+---
 
-Organizar e finalizar pedidos
+## 🔗 Acesse o Projeto
 
-Apresentar os produtos ao público
-
-Realizar atendimento com suporte integrado via chat
-
-Possibilitar o cadastro e login de clientes
-
-🔗 Acesse o Projeto
 Você pode acessar o site funcional do projeto através do link abaixo:
 
-👉 https://loja-pi-git-main-thurs-projects-7698f2ef.vercel.app
+👉 [https://loja-pi-git-main-thurs-projects-7698f2ef.vercel.app](https://loja-pi-git-main-thurs-projects-7698f2ef.vercel.app)
 
-🛠️ Tecnologias Utilizadas
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> </p>
-📋 Requisitos
-🧑‍💼 Atividades do Cliente:
- Cadastro/Login de usuários
+---
 
- Visualização e seleção de produtos
+## 🛠️ Tecnologias Utilizadas
 
- Finalização de compra com carrinho funcional
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+</p>
 
- Página “Sobre Nós” com informações da loja
+---
 
- Suporte ao cliente via chat
+## 📋 Requisitos
 
-🛠️ Atividades da ADM:
- Cadastro/Login de administradores
+### 🧑‍💼 Atividades do Cliente:
+- [x] Simulação de Cadastro/Login  
+- [x] Visualização de produtos  
+- [x] Informações detalhadas dos produtos  
+- [x] Simulação de encomenda  
+- [x] Carrinho de compras funcional  
+- [x] Contato via WhatsApp com a administradora  
 
- Edição de produtos no catálogo
+### 🛠️ Atividades da ADM:
+- [x] Simulação de login de administradora  
+- [x] Edição de produtos no catálogo (simulado)  
+- [x] Visualização dos pedidos recebidos (simulado)  
+- [x] Comunicação via WhatsApp com clientes  
 
- Visualização de pedidos do cliente
+---
 
- Comunicação com os clientes via suporte
+## 💡 Observações Finais
 
-💡 Observações Finais
-Esse sistema foi pensado para oferecer uma experiência personalizada e eficiente tanto para o cliente quanto para a administradora. O objetivo é facilitar o processo de venda e compra, integrando funcionalidades práticas com um visual amigável. O sistema é leve, intuitivo e pode ser adaptado futuramente para outras lojas artesanais.
+Este é um projeto **100% front-end**, com foco visual e funcional, criado para demonstrar domínio das linguagens de marcação (HTML), estilo (CSS) e comportamento (JavaScript).
+
+Todas as funcionalidades foram simuladas com lógica no navegador, sem banco de dados ou backend. O objetivo é entregar um sistema funcional, realista e visualmente agradável, voltado para avaliação de **interface e usabilidade**.
+
+---
+
 
 
