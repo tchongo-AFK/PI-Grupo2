@@ -36,12 +36,10 @@ Apesar de não possuir back-end (banco de dados ou servidor), o projeto se desta
 
 ---
 
-## 🔗 Acesse o Projeto
-
+🔗 Acesse o Projeto
 Você pode acessar o site funcional do projeto através do link abaixo:
 
-👉 [https://loja-pi-git-main-thurs-projects-7698f2ef.vercel.app](https://loja-pi-git-main-thurs-projects-7698f2ef.vercel.app)
-
+👉 https://my-bunnys.vercel.app
 ---
 
 ## 🛠️ Tecnologias Utilizadas
