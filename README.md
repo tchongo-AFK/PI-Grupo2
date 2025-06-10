@@ -2,7 +2,7 @@
 
 ## 👥 Equipe
 - Paola Gabriele de Oliveira  
-- Fernanda Ranali  
+- Matheus Alexandre 
 - Samuel Cabral Calixto  
 - Arthur Marques  
 
